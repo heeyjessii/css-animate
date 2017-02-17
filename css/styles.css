@@ -11,3 +11,15 @@ h3{
   text-align: center;
 }
 
+#rotate {
+	transform: rotate(27deg);
+}
+
+#skew {
+	transform: skew(30deg);
+}
+
+#all {
+	transform: scale(5);
+}
+

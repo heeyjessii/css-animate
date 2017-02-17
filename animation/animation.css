@@ -1,0 +1,10 @@
+#animate {
+	animation-name: animate;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes animate {
+	from{background-color: blue;}
+	to{background-color: grey;}
+}
